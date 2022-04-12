@@ -2,6 +2,8 @@
 
 ## Revealing Movie Review Trends Using NLP in Python
 
+<a href="https://drive.google.com/open?id=1b1qf2Ij8MuIqMRq7A31-VEkctV7eTi16&authuser=jyoder9%40nd.edu&usp=drive_fs">Link to Deck</a>
+
 ### Introduction
 The rise of streaming services has caused a mountain of movie options and too many to choose from on-demand. As a result, movie reviews have become a necessary part of the movie-watching process. In this project, I look at how movies are judged and how that affects what I choose to watch. Specifically, I want to answer what makes a movie “bad” vs. “good” — are there common characteristics, praises, and criticisms across similarly rated movies?
 This project is designed to analyze the information provided by a dataset that looks at Rotten Tomatoes, a review-aggregation website for film and television. This specific dataset is especially insightful due to the partitioning of the data into one file for individual reviews and another for individual films. With the results from our analysis, I hope to find correlations between rotten reviews and fresh reviews and the films they describe.
