@@ -1,6 +1,4 @@
-# MovieReviewsNLP
-
-## Revealing Movie Review Trends Using NLP in Python
+# Revealing Movie Review Trends Using NLP in Python
 
 <a href="https://drive.google.com/open?id=1b1qf2Ij8MuIqMRq7A31-VEkctV7eTi16&authuser=jyoder9%40nd.edu&usp=drive_fs">Link to Deck</a>
 
